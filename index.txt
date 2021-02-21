@@ -1,0 +1,7 @@
+SAMMA Website – Reworked  Suggested structure : 20 Jan 2021 + Brendon Comments
+
+1. ABOUT US (Home / Landing page)
+ - Mission
+- Vision
+- Key Objectives
+- Our history.
